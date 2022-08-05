@@ -16,7 +16,7 @@
     "jsonwebtoken": "^8.5.1",
     "laravel-mix": "^4.1.2",
     "mongodb": "^3.3.0-beta2",
-    "mongoose": "^5.6.7",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.1",
     "resolve-url-loader": "^3.1.0",
     "sass": "^1.22.9",
